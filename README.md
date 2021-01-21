@@ -12,7 +12,7 @@ reiji.sugama@gmail.com
 ## 職歴
 ### [DOC株式会社](https://www.doc-inc.com/)  
 - [外国人に特化したインターン求人媒体](https://github.com/reiji11011/resume/blob/main/doc-intern.md)
-- 外国人に特化した求職者データーベース
+- [外国人に特化した求職者データーベース](https://github.com/reiji11011/resume/blob/main/doc-agency.md)
 - 外国人支援サービスの資料請求サイト「dnus(ディヌス)」
 - 外国人材紹介・外国人求人特化のクラウド求人データーベース
 
