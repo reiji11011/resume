@@ -16,6 +16,10 @@ reiji.sugama@gmail.com
 - 外国人支援サービスの資料請求サイト「dnus(ディヌス)」
 - 外国人材紹介・外国人求人特化のクラウド求人データーベース
 
+## インターン
+### [株式会社div](https://di-v.co.jp/)
+- 株式会社divが運営する[TECH::CAMP](https://tech-camp.in/)でインターンシップ
+
 ## 経験した言語・フレームワーク・ツール
 ### Backend
 Ruby / Ruby on Rails
